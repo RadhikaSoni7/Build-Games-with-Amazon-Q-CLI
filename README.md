@@ -22,4 +22,5 @@ Snake (Nokia-style nostalgia)
 Flappy Bird (pixel-perfect frustration)
 
 🔗 Live code: https://github.com/RadhikaSoni7/Build-Games-with-Amazon-Q-CLI/
+
 📝 Full story + setup guide: Read the blog --> https://amazon-q-cli-gameniverse.hashnode.dev/reviving-arcade-magic-building-a-modular-game-launcher-with-amazon-q-cli-in-1-prompt
