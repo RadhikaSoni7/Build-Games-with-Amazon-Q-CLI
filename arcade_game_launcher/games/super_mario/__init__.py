@@ -1,0 +1,3 @@
+"""
+Super Mario game module.
+"""

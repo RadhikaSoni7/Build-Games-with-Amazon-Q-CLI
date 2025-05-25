@@ -1,0 +1,3 @@
+"""
+Arcade Game Launcher package.
+"""

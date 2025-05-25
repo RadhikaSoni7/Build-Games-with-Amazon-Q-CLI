@@ -1,0 +1,22 @@
+{
+    "name": "Level 1",
+    "background_color": [135, 206, 235],
+    "platforms": [
+        {"x": 0, "y": 550, "width": 800, "height": 50, "moving": false},
+        {"x": 100, "y": 450, "width": 200, "height": 20, "moving": false},
+        {"x": 400, "y": 400, "width": 150, "height": 20, "moving": false},
+        {"x": 600, "y": 300, "width": 200, "height": 20, "moving": false},
+        {"x": 200, "y": 300, "width": 100, "height": 20, "moving": true, "move_range": 200},
+        {"x": 0, "y": 200, "width": 100, "height": 20, "moving": false},
+        {"x": 700, "y": 200, "width": 100, "height": 20, "moving": false}
+    ],
+    "coins": [
+        {"x": 150, "y": 420},
+        {"x": 450, "y": 370},
+        {"x": 650, "y": 270},
+        {"x": 250, "y": 270},
+        {"x": 50, "y": 170},
+        {"x": 750, "y": 170}
+    ],
+    "player_start": {"x": 100, "y": 400}
+}
